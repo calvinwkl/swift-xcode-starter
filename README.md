@@ -8,6 +8,8 @@ This repository includes the Xcode project illustrated in below.
 
 ## Usage
 
+Use Xcode 9.4 and Swift 4.
+
 Open `starter.xcodeproj` and hit run. 
 
 You should see the app showing in a simulator with a blue background.
