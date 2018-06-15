@@ -6,9 +6,13 @@ This repository includes the Xcode project illustrated in below.
 
 - [Xcode Starter Guide (2) - Run Your First App](https://medium.com/@calw9/xcode-starter-guide-2-run-your-first-app-8317520613fc)
 
-## Usage
+## Prerequisite 
 
-Use Xcode 9.4 and Swift 4.
+- Xcode 9.0+
+
+- Swift 4.0+
+
+## How to Use
 
 Open `starter.xcodeproj`, select a simulator and hit run. 
 
