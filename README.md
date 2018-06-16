@@ -6,18 +6,32 @@ This repository includes the Xcode project illustrated in below.
 
 - [Xcode Starter Guide (2) - Run Your First App](https://medium.com/@calw9/xcode-starter-guide-2-run-your-first-app-8317520613fc)
 
+- [Xcode Starter Guide (3) - Common Practices to Start an iOS App with CocoaPods](https://medium.com/@calw9/xcode-starter-guide-3-common-practices-to-start-an-ios-app-with-cocoapods-e99ebdc26585)
+
 ## Prerequisite 
 
 - Xcode 9.0+
 
 - Swift 4.0+
 
+- CocoaPods 1.0+
+
 ## How to Use
 
-Open `starter.xcodeproj`, select a simulator and hit run. 
+- Xcode Starter Guide (1) & (2)
 
-You should see the app showing in the simulator with a blue background.
+  - Open `starter.xcodeproj`, select a simulator and hit run. 
 
+  - You should see the app showing in the simulator with a blue background.
+  
+- Xcode Starter Guide (3)
+
+  - Open `starter.xcworkspace`, select a simulator and hit run. 
+
+  - You should see the app showing in the simulator with a blue background.
+  
+  - You should see `import Alamofire` in `UIViewController.swift`
+  
 ## License
 
 Under the MIT License.
