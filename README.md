@@ -2,11 +2,11 @@
 
 This repository includes the Xcode project illustrated in below. 
 
-- [Xcode Starter Guide (1) - Learn How To Use Xcode](https://medium.com/@calw9/xcode-starter-guide-1-learn-how-to-use-xcode-7b852a4619ba)
+- [Xcode Starter Guide (1) - Learn How To Use Xcode](https://medium.com/p/7b852a4619ba)
 
-- [Xcode Starter Guide (2) - Run Your First App](https://medium.com/@calw9/xcode-starter-guide-2-run-your-first-app-8317520613fc)
+- [Xcode Starter Guide (2) - Run Your First App](https://medium.com/p/8317520613fc)
 
-- [Xcode Starter Guide (3) - Common Practices to Start an iOS App with CocoaPods](https://medium.com/@calw9/xcode-starter-guide-3-common-practices-to-start-an-ios-app-with-cocoapods-e99ebdc26585)
+- [Xcode Starter Guide (3) - Common Practices to Start an iOS App with CocoaPods](https://medium.com/p/e99ebdc26585)
 
 ## Prerequisite 
 
