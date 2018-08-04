@@ -1,6 +1,6 @@
 # Xcode Starter Guide ![Swift](http://img.shields.io/badge/swift-4.0-brightgreen.svg)
 
-This repository is for the Medium stories below. 
+This repository contains the soruce code of my project illustrated in my Medium stories. 
 
 - [Xcode Starter Guide (1) - Learn How To Use Xcode](https://medium.com/p/7b852a4619ba)
 
